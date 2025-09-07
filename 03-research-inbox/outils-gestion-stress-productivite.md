@@ -1,12 +1,11 @@
-***
+# Outils Gestion du Stress et Productivité
+
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #stress #gestion #coaching
 MOC : [[Coaching]]
 ***
-
-# Outils Gestion du Stress
 
 ## Concept
 
@@ -32,3 +31,5 @@ Les outils de gestion du stress et de productivité aident à améliorer la prod
 ## Liens
 
 [[20250906-gestion-du-stress]] • [[20250906-productivité]]
+
+***

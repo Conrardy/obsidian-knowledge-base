@@ -1,12 +1,11 @@
-***
+# Questionnement Puissant Coaching
+
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #questionnement #coaching
 MOC : [[Coaching]]
 ***
-
-# Questionnement Puissant Coaching
 
 ## Concept
 
@@ -31,3 +30,5 @@ Le questionnement puissant consiste à poser des questions ouvertes qui encourag
 ## Liens
 
 [[20250906-gestion-du-stress]] • [[20250906-résolution-de-problèmes]]
+
+***

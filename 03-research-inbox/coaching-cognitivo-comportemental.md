@@ -1,13 +1,11 @@
 # Coaching cognitivo-comportemental
 
----
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #CCC #coaching #comportement
 MOC : [[Coaching]]
-
----
+***
 
 ## Concept
 
@@ -34,4 +32,4 @@ Le coaching cognitivo-comportemental (CCC) aide à identifier et modifier les pe
 
 [[20250906-syndrome-imposteur]] • [[20250906-gestion-du-stress]]
 
----
+***

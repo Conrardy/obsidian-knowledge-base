@@ -1,12 +1,11 @@
-*** 
+# Introduction Coaching Développeurs
+
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #coaching #développeurs #développement-professionnel
 MOC : [[Coaching]]
 ***
-
-# Introduction Coaching Développeurs
 
 ## Concept
 
@@ -32,3 +31,5 @@ Le métier de développeur logiciel est exigeant et nécessite une adaptation co
 ## Liens
 
 [[20250906-coaching-techniques]] • [[20250906-développement-personnel]]
+
+***

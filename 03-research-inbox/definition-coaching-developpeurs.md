@@ -1,14 +1,11 @@
-# Definition Coaching Développeurs
-
----
+# Définition Coaching Développeurs
 
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #coaching #développeurs #personnalisation
 MOC : [[Coaching]]
-
----
+***
 
 ### Concept
 
@@ -34,4 +31,6 @@ Le coaching individuel est une méthode d'accompagnement personnalisée visant �
 
 ### Liens
 
-## [[20250906-coaching-techniques]] • [[20250906-gestion-du-temps]]
+[[20250906-coaching-techniques]] • [[20250906-gestion-du-temps]]
+
+***

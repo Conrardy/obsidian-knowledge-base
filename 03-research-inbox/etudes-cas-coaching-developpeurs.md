@@ -1,12 +1,11 @@
-***
+# Études de cas Coaching Développeurs
+
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #études-de-cas #coaching #développeurs
 MOC : [[Coaching]]
 ***
-
-# Études de cas Coaching Développeurs
 
 ## Concept
 
@@ -32,3 +31,5 @@ Des études de cas illustrent comment le coaching individuel a permis à des dé
 ## Liens
 
 [[20250906-coaching-techniques]] • [[20250906-gestion-du-stress]]
+
+***

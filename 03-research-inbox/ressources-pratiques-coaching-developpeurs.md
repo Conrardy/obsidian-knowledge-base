@@ -1,12 +1,11 @@
-***
+# Ressources Pratiques Coaching Développeurs
+
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #ressources-pratiques #coaching #developpeurs
 MOC : [[Coaching]]
 ***
-
-# Ressources Pratiques Coaching Développeurs
 
 ## Concept
 
@@ -35,3 +34,5 @@ Ressources pratiques pour approfondir le coaching individuel appliqué aux déve
 ## Liens
 
 [[20250906-ressources-coaching]] • [[20250906-outils-productivité]]
+
+***

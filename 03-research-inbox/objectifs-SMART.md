@@ -1,12 +1,11 @@
-***
+# Objectifs SMART Coaching
+
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #objectifs-SMART #coaching
 MOC : [[Coaching]]
 ***
-
-# Objectifs SMART Coaching
 
 ## Concept
 
@@ -34,3 +33,5 @@ La méthode SMART (Spécifique, Mesurable, Atteignable, Pertinent, Temporel) per
 ## Liens
 
 [[20250906-objectifs-SMART]] • [[20250906-gestion-du-temps]]
+
+***

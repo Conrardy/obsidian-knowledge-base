@@ -1,12 +1,11 @@
-***
+# Méthode GROW Coaching
+
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #GROW #coaching
 MOC : [[Coaching]]
 ***
-
-# Méthode GROW Coaching
 
 ## Concept
 
@@ -32,3 +31,5 @@ La méthode GROW (Goal, Reality, Options, Will) est une technique structurée po
 ## Liens
 
 [[20250906-objectifs-SMART]] • [[20250906-gestion-de-projet]]
+
+***
