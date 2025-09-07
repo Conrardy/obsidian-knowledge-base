@@ -4,6 +4,7 @@ Statut : Validé
 Tags : #productivité #technique #gestion-du-temps
 MOC : [[Coaching]]
 ***
+
 ### Concept
 
 Principe formulé par Vilfredo Pareto selon lequel 80 % des effets proviennent de 20 % des causes, permettant d'optimiser l'effort en se concentrant sur l'essentiel.
@@ -28,8 +29,8 @@ Principe formulé par Vilfredo Pareto selon lequel 80 % des effets proviennent d
 
 ### Liens
 
-[[20250906-efficacite-optimisation]] • [[20250906-priorisation-taches]] • [[20250906-analyse-impact]]
+[[Matrice Eisenhower - Priorisation urgence-importance]] • [[Time Blocking - Planification par blocs temporels]] • [[Méthode GTD - Système de gestion globale des tâches]]
 
 **Source :** Richard Koch, "The 80/20 Principle"
 
-*** 
+***

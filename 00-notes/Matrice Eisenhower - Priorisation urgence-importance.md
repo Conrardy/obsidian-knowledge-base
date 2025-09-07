@@ -29,7 +29,7 @@ Outil de décision développé par le président Eisenhower pour catégoriser le
 
 ### Liens
 
-[[20250906-gestion-temps]] • [[20250906-priorisation-taches]] • [[20250906-prise-decision]]
+[[Time Blocking - Planification par blocs temporels]] • [[Loi de Pareto - Principe 8020 en productivité]] • [[Méthode GTD - Système de gestion globale des tâches]]
 
 **Source :** Stephen R. Covey, "The 7 Habits of Highly Effective People"
 

@@ -30,7 +30,7 @@ Getting Things Done propose un workflow en 5 étapes pour capturer, traiter et o
 
 ### Liens
 
-[[20250906-gestion-taches]] • [[20250906-workflow-productivite]] • [[20250906-systemes-organisation]]
+[[Revue Hebdomadaire - Réflexion et planification cyclique]] • [[Matrice Eisenhower - Priorisation urgence-importance]] • [[Time Blocking - Planification par blocs temporels]]
 
 **Source :** David Allen, "Getting Things Done"
 

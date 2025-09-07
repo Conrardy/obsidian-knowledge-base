@@ -29,7 +29,7 @@ La revue hebdomadaire est un rituel de réflexion sur la semaine écoulée et de
 
 ### Liens
 
-[[20250906-cycles-reflexion]] • [[20250906-planification-strategique]] • [[20250906-rituels-productivite]]
+[[Méthode GTD - Système de gestion globale des tâches]] • [[Matrice Eisenhower - Priorisation urgence-importance]] • [[Time Blocking - Planification par blocs temporels]]
 
 **Source :** David Allen, "Getting Things Done"
 

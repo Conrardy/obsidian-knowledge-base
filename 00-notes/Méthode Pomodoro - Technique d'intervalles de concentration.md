@@ -28,7 +28,7 @@ Technique de gestion du temps développée par Francesco Cirillo (années 1980) 
 
 ### Liens
 
-[[20250906-gestion-temps]] • [[20250906-techniques-concentration]] • [[20250906-cycles-travail-repos]]
+[[Time Blocking - Planification par blocs temporels]] • [[Méthode GTD - Système de gestion globale des tâches]] • [[Revue Hebdomadaire - Réflexion et planification cyclique]]
 
 **Source :** Francesco Cirillo, "The Pomodoro Technique"
 
