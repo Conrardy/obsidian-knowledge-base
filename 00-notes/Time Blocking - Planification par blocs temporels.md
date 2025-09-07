@@ -29,10 +29,8 @@ Technique de planification assignant des créneaux temporels fixes à des activi
 
 ### Liens
 
-[[20250906-planification-temps]] • [[20250906-gestion-attention]] • [[20250906-organisation-journee]]
+[[Matrice Eisenhower - Priorisation urgence-importance]] • [[Loi de Pareto - Principe 8020 en productivité]] • [[Méthode GTD - Système de gestion globale des tâches]] • [[Revue Hebdomadaire - Réflexion et planification cyclique]]
 
 **Source :** Cal Newport, "Deep Work"
-
-*Fichier suggéré : `20250906-time-blocking.md`*
 
 *** 
