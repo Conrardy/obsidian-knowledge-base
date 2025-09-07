@@ -13,6 +13,13 @@ Le dossier `03-research-inbox` sert à collecter, organiser et traiter les notes
 
 ## Règles de gestion
 
+- **renommer les fichiers**  
+    Utiliser un format clair et descriptif pour les noms de fichiers, par exemple :  
+    `sujet-principal.md`  enlève les éventuels prefixes.
+    Exemple : 
+    `note-gestion-du-temps.md` devient `gestion-du-temps.md`
+    et `20250906-gestion-du-temps.md` devient `gestion-du-temps.md`
+
 - **Création de note**  
     Chaque nouvelle note doit inclure :
     - Un en-tête avec la date de création et de modification au format `YYYYMMDDHHmm`.
