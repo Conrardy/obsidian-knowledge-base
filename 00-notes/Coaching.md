@@ -25,6 +25,11 @@ Ce MOC (Map of Content) regroupe les principales méthodes et techniques de prod
 - [[Méthode GTD - Système de gestion globale des tâches]] - Workflow complet de gestion des tâches
 - [[Revue Hebdomadaire - Réflexion et planification cyclique]] - Rituel de révision et planification
 
+## 🤖 Outils d'automatisation et IA
+
+- [[Claude Code]] - Assistant IA pour le développement et l'automatisation
+- [[outils-gestion-stress-productivite]] - Outils numériques de productivité
+
 ## 🎯 Concepts transversaux
 
 - **Priorisation** : Pareto + Eisenhower + GTD
