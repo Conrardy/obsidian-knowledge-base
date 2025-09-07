@@ -1,10 +1,10 @@
----
+***
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #études-de-cas #coaching #développeurs
 MOC : [[Coaching]]
----
+***
 
 # Études de cas Coaching Développeurs
 

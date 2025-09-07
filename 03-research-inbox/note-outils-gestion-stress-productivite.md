@@ -1,10 +1,10 @@
----
+***
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #stress #gestion #coaching
 MOC : [[Coaching]]
----
+***
 
 # Outils Gestion du Stress
 

@@ -1,10 +1,10 @@
---- 
+*** 
 Date de création : 202509071120
 Date de modification : 202509071120
 Statut : Validé
 Tags : #coaching #développeurs #développement-professionnel
 MOC : [[Coaching]]
----
+***
 
 # Introduction Coaching Développeurs
 
