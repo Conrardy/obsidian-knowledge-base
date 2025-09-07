@@ -30,6 +30,6 @@ Le métier de développeur logiciel est exigeant et nécessite une adaptation co
 
 ## Liens
 
-[[20250906-coaching-techniques]] • [[20250906-développement-personnel]]
+[[questionnement-puissant]] • [[Coaching]]
 
 ***

@@ -32,6 +32,6 @@ La méthode SMART (Spécifique, Mesurable, Atteignable, Pertinent, Temporel) per
 
 ## Liens
 
-[[20250906-objectifs-SMART]] • [[20250906-gestion-du-temps]]
+[[methode-GROW]] • [[Time Blocking - Planification par blocs temporels]]
 
 ***

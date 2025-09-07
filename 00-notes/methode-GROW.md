@@ -30,6 +30,6 @@ La méthode GROW (Goal, Reality, Options, Will) est une technique structurée po
 
 ## Liens
 
-[[20250906-objectifs-SMART]] • [[20250906-gestion-de-projet]]
+[[objectifs-SMART]] • [[Méthode GTD - Système de gestion globale des tâches]]
 
 ***

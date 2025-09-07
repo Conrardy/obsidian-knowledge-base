@@ -34,6 +34,6 @@ Les développeurs présentent des particularités qui nécessitent une adaptatio
 
 ## Liens
 
-[[20250906-gestion-du-stress]] • [[20250906-télétravail]]
+[[outils-gestion-stress-productivite]] • [[teletravail-defis-coaching]]
 
 ***

@@ -30,6 +30,6 @@ Le coaching cognitivo-comportemental (CCC) aide à identifier et modifier les pe
 
 ## Liens
 
-[[20250906-syndrome-imposteur]] • [[20250906-gestion-du-stress]]
+[[syndrome-imposteur-developpeurs]] • [[outils-gestion-stress-productivite]]
 
 ***

@@ -31,6 +31,6 @@ Le coaching individuel est une méthode d'accompagnement personnalisée visant �
 
 ### Liens
 
-[[20250906-coaching-techniques]] • [[20250906-gestion-du-temps]]
+[[questionnement-puissant]] • [[Time Blocking - Planification par blocs temporels]]
 
 ***

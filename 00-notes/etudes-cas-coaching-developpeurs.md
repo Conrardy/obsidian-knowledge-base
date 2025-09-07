@@ -30,6 +30,6 @@ Des études de cas illustrent comment le coaching individuel a permis à des dé
 
 ## Liens
 
-[[20250906-coaching-techniques]] • [[20250906-gestion-du-stress]]
+[[questionnement-puissant]] • [[outils-gestion-stress-productivite]]
 
 ***

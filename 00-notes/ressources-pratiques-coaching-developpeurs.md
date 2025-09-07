@@ -33,6 +33,6 @@ Ressources pratiques pour approfondir le coaching individuel appliqué aux déve
 
 ## Liens
 
-[[20250906-ressources-coaching]] • [[20250906-outils-productivité]]
+[[Coaching]] • [[outils-gestion-stress-productivite]]
 
 ***

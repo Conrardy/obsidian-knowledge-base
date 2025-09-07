@@ -29,6 +29,6 @@ Le questionnement puissant consiste à poser des questions ouvertes qui encourag
 
 ## Liens
 
-[[20250906-gestion-du-stress]] • [[20250906-résolution-de-problèmes]]
+[[outils-gestion-stress-productivite]] • [[methode-GROW]]
 
 ***

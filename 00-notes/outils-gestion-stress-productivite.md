@@ -30,6 +30,6 @@ Les outils de gestion du stress et de productivité aident à améliorer la prod
 
 ## Liens
 
-[[20250906-gestion-du-stress]] • [[20250906-productivité]]
+[[questionnement-puissant]] • [[Méthode Pomodoro - Technique d'intervalles de concentration]]
 
 ***
