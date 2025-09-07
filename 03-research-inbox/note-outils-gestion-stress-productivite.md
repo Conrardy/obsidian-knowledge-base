@@ -1,0 +1,23 @@
+--- 
+Date de création : 202509061838
+Date de modification : 202509061838
+Statut : Validé
+Tags : #stress #productivité #outils
+MOC : [[Coaching]]
+***
+### Concept
+Les outils de gestion du stress et de productivité aident à améliorer la productivité, gérer le stress et favoriser un équilibre vie pro/perso.
+### Applications
+- Tenir un journal de bord pour noter les progrès et les difficultés
+- Réaliser une rétrospective personnelle pour analyser ses expériences
+- Utiliser des techniques de pleine conscience
+### Méthode d'application
+- Noter quotidiennement les tâches accomplies et les blocages rencontrés
+- Analyser régulièrement ses pratiques pour en tirer des enseignements
+- Pratiquer la pleine conscience pour réduire le stress
+### Questionnements
+- Quels outils sont les plus efficaces pour gérer le stress ?
+- Comment intégrer ces outils dans une routine quotidienne ?
+### Liens
+[[20250906-gestion-du-stress]] • [[20250906-productivité]]
+--- 
