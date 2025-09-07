@@ -34,6 +34,4 @@ Getting Things Done propose un workflow en 5 étapes pour capturer, traiter et o
 
 **Source :** David Allen, "Getting Things Done"
 
-*Fichier suggéré : `20250906-methode-gtd.md`*
-
 *** 

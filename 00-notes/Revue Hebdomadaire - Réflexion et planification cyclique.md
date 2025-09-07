@@ -33,6 +33,4 @@ La revue hebdomadaire est un rituel de réflexion sur la semaine écoulée et de
 
 **Source :** David Allen, "Getting Things Done"
 
-*Fichier suggéré : `20250906-revue-hebdomadaire.md`*
-
 *** 

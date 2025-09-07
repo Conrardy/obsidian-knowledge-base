@@ -32,6 +32,4 @@ Technique de gestion du temps développée par Francesco Cirillo (années 1980) 
 
 **Source :** Francesco Cirillo, "The Pomodoro Technique"
 
-*Fichier suggéré : `20250906-methode-pomodoro.md`*
-
 *** 

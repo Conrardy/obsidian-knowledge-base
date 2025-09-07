@@ -33,6 +33,4 @@ Outil de décision développé par le président Eisenhower pour catégoriser le
 
 **Source :** Stephen R. Covey, "The 7 Habits of Highly Effective People"
 
-*Fichier suggéré : `20250906-matrice-eisenhower.md`*
-
 *** 
